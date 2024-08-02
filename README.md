@@ -6,22 +6,11 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/abbasturii110">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-   <a href="https://linkedin.com/muhammadabbas110">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="https://www.instagram.com/i_emabbas">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/muhammadabbas2836">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/Abbas_Turii">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+ <a href="https://twitter.com/Abbas_Turii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@a" height="30" width="40" /></a>
+ <a href="https://linkedin.com/muhammadabbas110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@a" height="30" width="40" /></a>
+  <a href="https://github.com/abbasturii110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@a" height="30" width="40" /></a>
+ <a href="https://www.intagram.com/i_emabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@a" height="30" width="40" /></a>
+  <a href="https://fb.com/muhammadabbas2836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@a" height="30" width="40" /></a>
 </div>
 
 ### Languages and Tools:
