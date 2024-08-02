@@ -32,3 +32,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasturii110&theme=dark)
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasturii110&" alt="abbasturii110" /></p>
+
+
