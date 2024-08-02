@@ -32,5 +32,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasturii110&theme=dark)
 
 
-<br>
-⭐️ From [abbasturii110](https://github.com/abbasturii110)
